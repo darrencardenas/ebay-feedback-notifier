@@ -6,7 +6,7 @@ This Python script sends a notification email if an eBay user's feedback rating 
 <br><br>
 
 ## Requirements
-  - Create a free SMTP2GO account at [smtp2go.com](http://smtp2go.com).
+  - Create a free SMTP2GO account at [smtp2go.com](http://smtp2go.com). This allows you to send mail through their SMTP server.
   - Modify the values in the `REQUIRED CUSTOMIZATIONS` section of the Python script.
   ```
 # -----------------------------------------------------------------------------
